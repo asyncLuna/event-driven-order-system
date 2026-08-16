@@ -5,6 +5,7 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-event%20driven-231F20?logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-source%20of%20truth-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-cache-DC382D?logo=redis&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-Kotlin%20DSL-02303A?logo=gradle&logoColor=white)
 
 A compact Spring Boot application demonstrating how synchronous order creation can be combined with asynchronous event processing.
 
